@@ -1,0 +1,39 @@
+html {
+	background-color: #f9b49a;
+	color: white;
+	text-align: center;
+}
+
+#list {
+	font-style: italic;
+	border: 5px dotted white;
+	font-family: sans-serif;
+	margin: 20px;
+
+}
+
+#name {
+	font-weight: bold;
+	border: 15px dotted white;
+	color: white;
+
+}
+
+h2 {
+	font-style: italic;
+	color: black;
+	border-top: 5px dotted black;
+	border-bottom: 5px dotted black;
+
+}
+
+a {
+	margin: 20px;
+	color: #b182dd;
+
+}
+
+img {
+	margin: 20px;
+	border: 10px solid white;
+}
